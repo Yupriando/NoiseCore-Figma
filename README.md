@@ -39,3 +39,7 @@ Yupriando
 ## Academic Purpose
 
 This project was developed as part of a UI/UX Design and Web Development assignment for educational purposes.
+
+## License
+
+This project is intended for academic and learning purposes only.
