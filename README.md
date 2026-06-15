@@ -2,30 +2,35 @@
 
 NoiseCore is a UI/UX design project for an audio e-commerce platform that sells headphones, earbuds, speakers, and open-ear audio devices.
 
-## Design Deliverables
-
-- Wireframe
-- Low-Fidelity Prototype
-- High-Fidelity Prototype
-- Interactive Prototype
-
 ## Design Tool
 
 - Figma
 
-## Figma Prototype
+## Figma File
 
-Paste your Figma link here:
+View the complete design here:
 
-https://www.figma.com/design/LZwzKnc34HwWa5pQCr44Xl/Figma-Lab-HCI?node-id=0-1&t=b6N7N0UJ7lQwPEGw-1
+https://www.figma.com/design/LZwzKnc34HwWa5pQCr44Xl/Figma-Lab-HCI?node-id=0-1&t=CuZUD3h3BEsZPFU7-1
 
-## Pages
+## Design Pages
 
-- Home
-- Products
-- About
-- Deals
-- Join Membership
+- Home Page
+- Product Page
+- About Page
+- Deals Page
+- Join Membership Page
+
+## Design Components
+
+- Product Cards
+- Navigation Bar
+- Footer
+- Membership Form
+- Product Category Filter
+
+## Design Preview
+
+The repository also contains exported design previews and screenshots of the complete design process.
 
 ## Author
 
@@ -33,4 +38,4 @@ Yupriando
 
 ## Academic Purpose
 
-This project was developed for educational and academic purposes.
+This project was developed as part of a UI/UX Design and Web Development assignment for educational purposes.
