@@ -17,7 +17,7 @@ NoiseCore is a UI/UX design project for an audio e-commerce platform that sells 
 
 Paste your Figma link here:
 
-https://www.figma.com/...
+https://www.figma.com/design/LZwzKnc34HwWa5pQCr44Xl/Figma-Lab-HCI?node-id=0-1&t=b6N7N0UJ7lQwPEGw-1
 
 ## Pages
 
